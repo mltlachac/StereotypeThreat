@@ -1,0 +1,441 @@
+id,prolificVersion,PHQ-Q1,PHQ-Q2,PHQ-Q3,PHQ-Q4,PHQ-Q5,PHQ-Q6,PHQ-Q7,PHQ-Q8,PHQ-Q9,PHQ-Total,GAD-Q1,GAD-Q2,GAD-Q3,GAD-Q4,GAD-Q5,GAD-Q6,GAD-Q7,GAD-total,Gender,Age,depressionTreatment,Race/Ethnicity
+EQ4JETCS0,control,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,Woman,24-39,No,Hispanic/Latino
+PRSU5PFDZ,stereotype threat,0,0,1,1,1,0,1,0,0,4,0,1,0,0,0,0,0,1,Man,40-55,Yes,White/Caucasian
+21Q5B0HU6,control,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,2,Man,24-39,No,White/Caucasian
+2L01TM7RR,control,3,3,3,3,3,3,3,3,3,27,3,3,3,3,2,3,3,20,Man,24-39,Yes,White/Caucasian
+GGQCID86U,control,2,1,2,3,3,2,1,0,1,15,2,1,2,0,0,3,1,9,Woman,18-23,Yes,White/Caucasian
+B8KBO9Y8L,control,3,3,2,3,2,3,3,0,1,20,1,2,3,2,1,2,0,11,Man,40-55,Yes,"Asian, White/Caucasian"
+CQR4Y2UXQ,stereotype threat,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Man,40-55,No,White/Caucasian
+TAITDNS88,control,2,1,3,2,2,1,2,0,0,13,2,1,2,1,0,0,1,7,Man,24-39,No,White/Caucasian
+ZE5QAUQQL,control,2,3,3,3,2,1,3,2,1,20,2,2,1,3,1,2,1,12,Other,24-39,No,White/Caucasian
+JX3RD18ES,control,2,3,1,3,1,3,2,0,3,18,1,0,0,1,0,2,0,4,Man,24-39,No,"Hispanic/Latino, White/Caucasian"
+G2E3RR2KS,stereotype threat,1,1,1,1,1,1,1,1,1,9,1,1,1,1,1,1,1,7,Man,24-39,No,White/Caucasian
+R0N67HMKC,control,1,3,1,2,1,1,0,0,0,9,2,1,1,2,0,2,1,9,Woman,24-39,Yes,"Hispanic/Latino, White/Caucasian"
+0AS1KO35P,control,3,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+4WPV9N79S,control,0,1,2,2,1,0,0,0,0,6,1,1,1,1,1,1,1,7,Man,24-39,No,White/Caucasian
+WFWNRQUL9,control,1,1,2,2,0,0,3,0,0,9,1,0,1,0,0,1,0,3,Woman,18-23,No,"Asian, White/Caucasian"
+6Q6Y92AX4,control,3,3,3,3,3,3,3,0,0,21,3,3,3,3,2,3,1,18,Man,24-39,Yes,White/Caucasian
+AWMJJ0JOC,stereotype threat,1,0,1,1,0,0,1,1,1,6,0,0,0,0,1,1,0,2,Man,40-55,No,Black/African American
+O6ODZSA58,control,2,1,1,2,0,1,0,0,0,7,2,1,1,1,0,2,0,7,Man,24-39,No,White/Caucasian
+4REI6R2IA,control,2,2,0,0,0,2,2,0,1,9,2,1,1,1,0,0,0,5,Man,24-39,Yes,White/Caucasian
+T7IVFSMPH,stereotype threat,3,3,3,2,2,3,3,0,2,21,3,3,3,2,0,2,1,14,Woman,18-23,Yes,"Native American, White/Caucasian"
+87I1YSTNQ,control,2,2,2,2,1,3,1,0,0,13,2,2,2,1,0,1,0,8,Man,18-23,No,White/Caucasian
+R8CI0EGMO,stereotype threat,1,2,3,2,2,3,3,0,0,16,2,1,1,3,2,2,0,11,Woman,40-55,Yes,White/Caucasian
+22LL6OVMX,control,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,Woman,40-55,No,Black/African American
+H9VW0FPM0,stereotype threat,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,Man,56+,No,White/Caucasian
+NATPFYIWF,control,3,3,3,3,3,3,3,3,3,27,3,3,3,3,3,3,3,21,Man,18-23,No,Asian
+XJ3EA8CN3,stereotype threat,1,1,1,1,1,1,1,0,0,7,1,1,1,1,1,1,0,6,Woman,40-55,Yes,"Hispanic/Latino, White/Caucasian"
+FANIYNL6M,control,2,1,2,3,1,0,1,1,0,11,2,3,3,3,2,2,2,17,Woman,24-39,Yes,"Hispanic/Latino, White/Caucasian"
+9IS90RONI,control,1,1,2,1,1,1,0,0,0,7,2,0,0,0,1,1,0,4,Man,24-39,No,White/Caucasian
+VLUYC1ANM,control,1,0,1,1,1,0,0,0,0,4,1,0,0,0,0,1,0,2,Woman,40-55,No,White/Caucasian
+WB0TLP5X4,stereotype threat,1,1,2,2,0,2,1,0,1,10,2,2,2,1,1,2,2,12,Man,24-39,No,White/Caucasian
+GOC1D5RNE,stereotype threat,2,2,1,3,2,3,2,1,1,17,2,1,2,1,1,1,1,9,Man,24-39,Yes,"Asian, Native Islander/Pacific Islander"
+YJPE46TZX,stereotype threat,1,1,0,1,1,2,1,0,0,7,1,0,1,1,0,1,0,4,Man,24-39,Yes,White/Caucasian
+QT3M2ARB7,control,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Man,18-23,No,Black/African American
+KDGK00IIX,stereotype threat,1,0,1,1,1,0,0,0,0,4,1,0,1,0,0,1,1,4,Man,40-55,No,White/Caucasian
+72ZHKRNNX,stereotype threat,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,Woman,40-55,Yes,White/Caucasian
+LW9ULQ4E5,stereotype threat,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2,0,2,Man,24-39,No,"Black/African American, White/Caucasian"
+7FYEIL5TB,control,0,1,0,1,1,0,0,0,0,3,0,0,0,1,0,2,0,3,Man,18-23,No,Black/African American
+YDYRIKI3H,control,1,1,3,2,1,1,1,0,0,10,3,3,3,3,1,2,1,16,Man,18-23,Yes,Hispanic/Latino
+GCORDFUNA,control,0,1,2,0,0,0,0,0,0,3,2,1,1,1,0,1,0,6,Woman,24-39,No,Black/African American
+J6UOKFUR1,stereotype threat,1,2,2,2,2,2,2,1,1,15,2,1,2,2,2,2,1,12,Woman,40-55,No,White/Caucasian
+TJVPZ3KUP,control,3,3,2,3,3,2,3,0,0,19,1,1,1,2,0,2,1,8,Woman,24-39,No,Hispanic/Latino
+R27QFAASY,stereotype threat,2,3,3,3,3,3,1,1,2,21,3,3,3,3,1,2,3,18,Woman,24-39,Yes,White/Caucasian
+7PAJPUUZ5,control,2,2,1,3,0,2,2,2,0,14,1,2,3,2,1,1,2,12,Woman,56+,Yes,White/Caucasian
+WYXC1UC1B,control,2,3,2,2,3,2,2,2,2,20,3,3,2,2,2,3,2,17,Man,18-23,No,White/Caucasian
+JAP74JOLU,control,1,1,1,1,1,2,2,0,0,9,1,1,1,1,0,1,0,5,Man,18-23,No,Asian
+9SMXN0ACJ,stereotype threat,1,1,2,2,2,1,3,1,0,13,2,1,1,1,2,1,1,9,Woman,24-39,Yes,White/Caucasian
+EHKQK9NGT,stereotype threat,1,1,2,2,0,1,1,0,0,8,1,1,2,1,1,1,0,7,Man,24-39,No,Hispanic/Latino
+16EV5VR4O,control,2,1,3,3,3,3,2,0,0,17,3,3,2,3,1,2,2,16,Woman,24-39,Yes,White/Caucasian
+GV6REDMUZ,control,1,1,1,3,0,1,1,0,0,8,3,1,1,1,2,0,0,8,Man,18-23,No,White/Caucasian
+7KBUI5ZGZ,stereotype threat,1,2,1,2,2,1,3,0,2,14,2,2,1,3,3,1,2,14,Woman,24-39,Yes,White/Caucasian
+E4K175TH3,stereotype threat,0,1,2,3,2,1,1,1,0,11,1,0,0,2,2,3,0,8,Man,24-39,No,White/Caucasian
+AFA9AAN3U,stereotype threat,2,1,3,2,1,1,0,0,0,10,1,0,0,1,0,0,1,3,Man,18-23,No,Asian
+0GJVGLPFD,control,2,0,1,1,0,0,1,1,0,6,0,0,0,1,0,0,0,1,Man,40-55,Yes,White/Caucasian
+5OOGUCOWI,stereotype threat,1,0,1,0,0,1,0,1,0,4,1,0,2,1,0,2,1,7,Man,24-39,No,Black/African American
+MXP7VL7UL,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+AJFHFELJ9,control,1,0,0,1,0,0,0,0,0,2,1,0,1,0,0,1,0,3,Woman,24-39,No,White/Caucasian
+7R94OA22K,control,1,2,2,2,2,2,2,1,0,14,2,2,2,2,2,2,2,14,Man,24-39,Yes,White/Caucasian
+I0D9G5M2D,control,0,0,3,3,2,0,0,0,0,8,0,0,0,0,0,0,0,0,Woman,24-39,No,Hispanic/Latino
+ZVQ163U8Q,stereotype threat,1,0,2,1,0,0,1,0,0,5,0,0,0,0,0,1,0,1,Man,18-23,No,White/Caucasian
+C0FO8A3YF,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+5LZN9KC6Z,stereotype threat,0,1,2,1,0,0,1,0,0,5,2,1,1,2,2,0,0,8,Woman,24-39,No,"Black/African American, Native American"
+JEZ8J588Y,control,1,1,2,2,1,1,2,1,1,12,1,1,1,1,0,1,2,7,Woman,56+,No,White/Caucasian
+XRN7RMADR,control,1,0,3,1,1,1,0,0,0,7,0,1,1,1,0,0,0,3,Woman,24-39,No,White/Caucasian
+R7YBIW3II,control,1,1,2,1,2,1,0,0,1,9,0,0,0,1,0,1,0,2,Man,24-39,Yes,White/Caucasian
+BATBGXLRZ,control,1,1,0,0,0,2,1,0,1,6,3,2,2,2,0,1,2,12,Man,24-39,Yes,Black/African American
+DOAW2UJIB,stereotype threat,2,1,1,2,1,2,2,0,1,12,1,0,1,2,0,0,1,5,Woman,24-39,Yes,White/Caucasian
+PHKDFQDNA,control,1,1,3,3,1,1,1,0,0,11,2,1,2,3,1,2,1,12,Man,18-23,Yes,White/Caucasian
+2HXBM74IR,control,1,1,2,1,2,2,2,1,1,13,2,1,2,1,1,1,2,10,Woman,24-39,Yes,White/Caucasian
+2HP2IU9CX,stereotype threat,1,0,3,2,2,0,3,2,0,13,2,1,2,3,3,3,1,15,Woman,40-55,Yes,White/Caucasian
+5C0978TO8,stereotype threat,3,3,3,3,2,3,3,3,1,24,3,3,3,3,3,3,3,21,Woman,24-39,No,Hispanic/Latino
+OVW13SMGC,control,0,0,1,1,0,1,0,0,0,3,1,0,0,1,1,2,0,5,Man,40-55,Yes,White/Caucasian
+C06F1T857,control,2,2,3,3,2,1,1,0,1,15,2,2,2,2,0,2,2,12,Woman,40-55,Yes,White/Caucasian
+NVKTPL6YG,control,2,2,3,1,1,0,2,3,0,14,3,3,3,1,2,0,3,15,Woman,40-55,Yes,White/Caucasian
+AZTQ43FR2,stereotype threat,1,0,3,0,0,1,0,0,0,5,0,0,0,0,0,2,0,2,Man,24-39,Yes,Hispanic/Latino
+8G5DNILEK,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+6IMCHA760,stereotype threat,1,0,0,1,0,0,1,0,0,3,1,0,2,1,2,1,0,7,Man,24-39,No,Asian
+U4FU1DQFT,stereotype threat,0,0,0,1,0,0,0,0,0,1,2,1,2,1,0,0,0,6,Man,18-23,No,White/Caucasian
+WX00908TW,control,1,1,0,1,0,1,1,0,0,5,1,1,1,0,0,1,0,4,Woman,24-39,No,White/Caucasian
+B44VQGIDU,control,3,3,3,3,3,3,3,3,0,24,3,3,3,2,2,3,3,19,Man,18-23,No,White/Caucasian
+C1BOB71XJ,stereotype threat,0,1,2,2,2,2,0,0,0,9,2,2,2,2,2,0,0,10,Woman,24-39,No,White/Caucasian
+GZU3KNP1E,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woman,40-55,No,White/Caucasian
+PG76MAUMX,stereotype threat,1,0,2,2,1,0,0,0,0,6,0,0,0,0,1,0,0,1,Woman,24-39,Yes,White/Caucasian
+9P5WZBIU1,control,1,2,2,3,1,1,1,0,0,11,1,2,1,1,0,0,0,5,Woman,40-55,No,"Native American, Prefer not to answer"
+63QKBXNE6,control,2,2,3,3,3,3,3,2,0,21,2,2,2,0,0,2,0,8,Woman,18-23,No,Asian
+S36MWQXIM,stereotype threat,1,1,2,2,1,2,2,1,1,13,2,1,1,2,1,0,2,9,Man,40-55,No,Hispanic/Latino
+071Q4H1U8,stereotype threat,1,1,1,2,1,1,1,1,0,9,1,2,2,1,1,1,0,8,Man,24-39,Yes,White/Caucasian
+B1R17ZXQO,control,2,1,0,2,1,0,3,0,0,9,2,1,1,0,0,1,2,7,Woman,24-39,Yes,White/Caucasian
+4ALLYTQ81,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+FH62WPZP3,control,1,1,1,0,1,0,0,0,0,4,0,1,1,1,0,1,0,4,Man,24-39,No,White/Caucasian
+NEXWGJERL,control,0,0,3,3,2,0,2,0,0,10,0,0,0,1,0,0,0,1,Man,24-39,No,White/Caucasian
+FX1QOS4N2,control,2,3,3,3,3,2,1,0,1,18,3,3,3,2,2,3,3,19,Man,18-23,Yes,White/Caucasian
+9UK1BSBLV,control,0,3,0,0,0,3,0,0,0,6,0,0,0,0,0,1,0,1,Man,40-55,No,White/Caucasian
+XDQVFTSQ9,stereotype threat,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Woman,24-39,No,White/Caucasian
+F3G0RWSR1,stereotype threat,3,2,3,3,3,2,3,1,1,21,3,2,2,3,3,1,1,15,Man,24-39,Yes,White/Caucasian
+MPK96X2SQ,stereotype threat,2,2,1,3,1,2,3,1,1,16,2,2,1,2,0,2,2,11,Man,24-39,No,White/Caucasian
+P85P0ARF7,stereotype threat,1,1,0,3,1,1,0,0,1,8,1,0,1,1,0,2,0,5,Woman,40-55,Yes,White/Caucasian
+27NH2HZUC,stereotype threat,0,0,0,3,3,0,0,0,0,6,0,0,0,0,0,1,0,1,Man,24-39,Yes,Hispanic/Latino
+8LXL8LH75,control,0,0,2,1,1,0,0,0,0,4,1,0,0,1,0,0,0,2,Woman,40-55,No,White/Caucasian
+D23O0X363,stereotype threat,1,1,1,1,1,0,1,1,0,7,1,1,1,1,1,1,0,6,Man,56+,Yes,White/Caucasian
+U1T47OVLO,stereotype threat,2,3,2,2,1,2,1,0,1,14,1,2,1,3,2,1,2,12,Man,24-39,No,Black/African American
+QBEZBGLGH,control,3,2,3,2,2,1,2,0,0,15,1,1,0,1,1,3,0,7,Man,40-55,Yes,White/Caucasian
+C9RIGOBMB,stereotype threat,3,3,3,3,3,3,3,3,3,27,3,3,3,3,0,3,3,18,Woman,24-39,No,White/Caucasian
+PGU3O10D9,control,3,3,2,3,2,3,3,1,2,22,3,3,3,3,2,2,2,18,Other,24-39,Yes,White/Caucasian
+K8FZTWVGA,stereotype threat,1,1,1,1,2,1,1,0,0,8,1,1,2,1,0,0,1,6,Woman,24-39,Yes,White/Caucasian
+7NSPJAMA6,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,40-55,No,Black/African American
+CU78TRR0C,control,1,2,0,1,0,1,3,0,0,8,1,0,1,1,0,1,0,4,Woman,40-55,Yes,White/Caucasian
+L6NKUQPL7,stereotype threat,1,1,3,2,2,1,1,0,0,11,1,2,1,1,0,2,1,8,Woman,24-39,Yes,White/Caucasian
+8FN886LW5,control,2,2,3,3,2,1,3,2,3,21,3,1,1,2,1,0,3,11,Woman,40-55,Yes,White/Caucasian
+0U2THOJHP,stereotype threat,1,1,3,2,1,2,2,1,1,14,1,0,1,1,1,0,1,5,Man,18-23,No,White/Caucasian
+TC029K8FC,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,40-55,No,White/Caucasian
+33WM31B9D,stereotype threat,1,1,1,1,1,0,0,1,0,6,1,0,0,1,1,1,0,4,Man,40-55,Yes,White/Caucasian
+BI9UZGZCI,control,2,3,2,2,3,3,2,1,0,18,2,3,2,3,3,3,3,19,Man,40-55,No,Other
+VVHW94TQJ,control,1,1,0,1,0,0,1,0,0,4,1,0,0,2,0,0,0,3,Woman,24-39,No,White/Caucasian
+2KBVNGWPL,stereotype threat,1,2,1,0,0,3,1,0,1,9,2,2,3,1,1,3,2,14,Woman,24-39,Yes,Black/African American
+7MXTEUBZM,control,1,1,1,2,1,1,2,2,0,11,1,1,1,3,1,1,0,8,Man,24-39,No,White/Caucasian
+66VHJOQM5,stereotype threat,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,1,Man,40-55,No,White/Caucasian
+RWDISU11F,stereotype threat,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,2,Man,18-23,No,Hispanic/Latino
+FTWST1L44,stereotype threat,2,2,3,2,1,3,2,2,3,20,2,2,2,2,1,2,3,14,Woman,18-23,Yes,White/Caucasian
+SA23NGN79,control,3,1,3,2,3,2,3,2,1,20,2,2,2,3,2,2,3,16,Man,24-39,Yes,Black/African American
+ICN55LW0F,stereotype threat,2,2,3,3,2,3,1,0,1,17,2,3,3,3,0,3,1,15,Woman,24-39,Yes,White/Caucasian
+2W1EYGWM0,control,2,3,2,3,3,3,3,1,2,22,3,3,3,2,3,1,2,17,Woman,40-55,No,Other
+2GL2GBWBU,control,2,1,1,2,2,2,3,0,0,13,2,2,2,2,1,2,3,14,Man,24-39,No,"Hispanic/Latino, White/Caucasian"
+EE1MNQTUT,control,1,1,3,3,1,1,2,1,1,14,3,1,2,2,3,1,1,13,Other,18-23,No,"Hispanic/Latino, White/Caucasian"
+CEGGDZ4BQ,control,0,0,1,0,1,1,0,0,0,3,1,0,1,0,0,0,0,2,Man,40-55,No,Black/African American
+NDBMQY06C,control,1,1,3,2,1,1,3,2,0,14,3,2,3,2,3,1,1,15,Man,24-39,Yes,White/Caucasian
+4BC7EXG7E,control,2,2,3,2,0,2,1,0,1,13,2,1,2,1,0,2,2,10,Man,24-39,No,White/Caucasian
+MBKRUV24O,stereotype threat,3,2,3,3,2,1,2,1,1,18,2,1,2,3,1,1,1,11,Man,18-23,Yes,White/Caucasian
+3PIMCAZX9,stereotype threat,3,3,2,3,3,3,1,0,0,18,3,1,1,1,0,2,3,11,Woman,24-39,No,White/Caucasian
+5QBSI11JO,control,1,1,3,0,2,1,1,0,0,9,0,0,0,3,2,1,0,6,Woman,40-55,Yes,Native American
+65R7EP8X4,stereotype threat,1,1,3,3,1,0,0,0,0,9,0,0,0,1,0,1,1,3,Man,56+,Yes,White/Caucasian
+37LDX3I9F,control,3,1,2,1,1,1,3,0,0,12,3,3,3,3,1,2,0,15,Woman,18-23,Yes,White/Caucasian
+GQ5MST8H5,stereotype threat,2,3,3,2,3,2,1,0,1,17,2,3,3,2,1,2,2,15,Woman,24-39,No,Hispanic/Latino
+L6B3T0HWR,stereotype threat,0,1,0,0,1,1,0,0,0,3,1,0,1,0,0,0,0,2,Man,24-39,No,Black/African American
+XT11CP7OL,stereotype threat,3,2,3,3,2,1,3,0,1,18,2,3,3,2,1,2,1,14,Woman,24-39,Yes,Black/African American
+A2AI12LNP,control,2,1,2,1,2,1,0,0,0,9,1,1,1,1,0,0,0,4,Woman,40-55,No,White/Caucasian
+KDIEB7GG9,stereotype threat,2,1,1,3,2,2,0,0,0,11,0,0,3,0,0,1,2,6,Woman,40-55,Yes,White/Caucasian
+9HOPXED8X,stereotype threat,0,1,1,1,0,1,0,0,1,5,1,1,0,1,0,1,2,6,Woman,18-23,No,Asian
+SGVN7E3SM,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+3L5SXMBCT,control,1,0,2,2,3,1,2,1,0,12,1,1,2,2,1,2,1,10,Woman,18-23,Yes,White/Caucasian
+SLB2T1LBE,control,1,3,0,2,2,2,1,0,0,11,2,1,1,3,1,2,1,11,Woman,18-23,No,"Asian, Other"
+ZLVAOMACE,stereotype threat,2,2,3,2,3,3,3,2,2,22,3,2,2,2,2,3,1,15,Woman,24-39,No,Black/African American
+QUWE365TI,stereotype threat,1,1,1,1,1,1,1,0,0,7,1,0,1,0,0,0,0,2,Man,24-39,No,White/Caucasian
+NYS4MQRPS,control,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Man,24-39,No,White/Caucasian
+GLETU5WBR,control,0,0,3,1,0,0,0,0,0,4,2,0,0,2,0,1,0,5,Woman,40-55,No,Black/African American
+D8SHI576R,control,3,2,3,3,1,3,3,3,0,21,3,3,3,3,3,3,3,21,Man,18-23,No,Hispanic/Latino
+NQX55024F,stereotype threat,1,1,0,2,1,0,1,1,1,8,1,2,2,0,0,2,0,7,Woman,24-39,Yes,White/Caucasian
+CLFI9X5TX,stereotype threat,1,1,3,3,2,0,2,0,0,12,2,2,2,3,1,2,1,13,Woman,24-39,No,White/Caucasian
+AC2G79U6Z,control,2,1,2,2,1,2,1,0,0,11,3,2,2,1,0,2,2,12,Woman,18-23,Yes,White/Caucasian
+DVHPDYB89,control,0,0,3,3,0,0,0,0,0,6,1,0,0,2,1,1,0,5,Woman,24-39,Yes,Hispanic/Latino
+ROSJJNIB3,control,1,2,2,3,1,3,2,0,2,16,2,1,2,2,1,2,1,11,Man,24-39,Yes,White/Caucasian
+PUJNRXVAU,control,3,3,2,3,1,3,2,0,2,19,0,0,0,1,1,0,0,2,Man,24-39,No,White/Caucasian
+BHY0R9MA8,control,1,2,3,3,0,3,1,0,0,13,3,3,3,3,1,2,3,18,Woman,24-39,Yes,White/Caucasian
+A3BKTAVM7,control,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,4,Woman,24-39,No,Black/African American
+JX3VZUNU2,control,3,3,3,3,3,3,3,0,1,22,3,3,3,3,1,2,2,17,Woman,24-39,Yes,White/Caucasian
+SHK92R2HD,control,1,1,1,2,2,1,2,0,0,10,0,2,1,2,0,0,1,6,Woman,24-39,No,White/Caucasian
+GDI7L5YNQ,control,1,3,3,3,0,2,1,0,1,14,2,2,1,2,0,3,2,12,Woman,18-23,No,White/Caucasian
+LPZW8YNO9,stereotype threat,3,2,2,3,1,2,3,2,0,18,3,3,3,2,2,2,3,18,Woman,24-39,Yes,"Native American, White/Caucasian"
+8CLVULOIO,control,0,2,0,1,0,2,0,0,0,5,3,0,2,1,0,2,1,9,Woman,24-39,No,"Native American, White/Caucasian"
+7A9PXD4HB,stereotype threat,1,1,0,1,2,1,2,0,0,8,3,2,3,1,0,2,2,13,Man,18-23,No,White/Caucasian
+HMHLIFE82,control,1,2,2,1,1,2,2,1,0,12,2,2,1,2,2,1,1,11,Man,18-23,No,Asian
+I8FRN56WI,control,1,0,1,1,2,1,1,1,0,8,0,0,1,1,0,1,0,3,Woman,18-23,Yes,"Asian, White/Caucasian"
+6I1SJ69LX,stereotype threat,2,2,3,2,1,3,2,0,2,17,2,2,2,3,1,3,3,16,Man,24-39,Yes,Hispanic/Latino
+0CJ37ZRP0,control,2,2,2,1,2,0,1,0,1,11,1,1,1,1,1,2,0,7,Man,24-39,No,White/Caucasian
+NDG31PVFT,stereotype threat,1,0,1,1,1,1,1,0,0,6,1,0,1,1,0,0,0,3,Man,24-39,No,White/Caucasian
+8NAPCHBRY,control,2,1,3,1,2,2,2,2,1,16,3,1,1,3,3,2,1,14,Man,24-39,Yes,White/Caucasian
+2IV0RR13G,stereotype threat,3,3,3,3,3,3,3,2,2,25,3,3,3,3,3,2,3,20,Woman,40-55,Yes,White/Caucasian
+952JOOR8N,stereotype threat,2,2,3,1,0,0,0,0,0,8,0,0,0,1,0,1,0,2,Man,18-23,No,White/Caucasian
+0EZE7RBCS,control,3,3,3,3,2,3,3,2,3,25,3,3,3,3,3,3,3,21,Man,24-39,No,White/Caucasian
+KGVGDHJC5,control,1,2,1,1,2,1,1,2,3,14,1,1,2,1,2,2,1,10,Man,24-39,No,Black/African American
+VXP00OA6H,control,1,0,0,1,1,0,0,1,0,4,2,0,1,1,1,1,0,6,Man,40-55,No,White/Caucasian
+P6MB6BZIA,stereotype threat,0,1,1,1,1,0,0,0,0,4,0,0,0,1,0,1,0,2,Man,24-39,No,Black/African American
+2CDDC5KI4,control,3,3,0,3,0,3,2,0,2,16,2,2,3,3,1,3,2,16,Woman,40-55,Yes,"Asian, Hispanic/Latino, Native Islander/Pacific Islander, White/Caucasian"
+LMCZ0EC9J,stereotype threat,1,0,1,1,1,0,1,0,0,5,1,0,0,0,0,0,1,2,Woman,18-23,No,Black/African American
+NQY5HEUJ8,stereotype threat,2,3,3,3,3,3,3,1,3,24,2,2,3,3,2,2,2,16,Woman,24-39,Prefer not to answer,"Hispanic/Latino, White/Caucasian"
+DV38WPRNY,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+4MZ7HDQ5Y,stereotype threat,2,2,3,2,1,2,1,0,2,15,2,2,2,3,2,3,3,17,Woman,24-39,Yes,White/Caucasian
+MI4H76GUO,stereotype threat,0,1,2,2,0,0,1,0,0,6,0,0,0,0,0,0,0,0,Man,24-39,No,Hispanic/Latino
+3HCT94JWT,stereotype threat,2,1,3,3,0,0,2,0,0,11,2,1,2,1,0,3,0,9,Woman,24-39,Yes,White/Caucasian
+8SEHPRKH5,stereotype threat,1,2,1,1,2,1,2,1,0,11,2,1,1,2,1,0,2,9,Other,24-39,Yes,White/Caucasian
+CVCXR3FZV,control,3,3,3,3,3,3,3,3,1,25,3,1,1,2,3,3,0,13,Woman,40-55,No,White/Caucasian
+BN0LIX16A,control,2,2,3,3,3,3,3,3,2,24,3,2,2,3,1,3,1,15,Man,18-23,Yes,White/Caucasian
+IPI43M6ZT,stereotype threat,3,3,3,3,3,3,3,3,3,27,3,3,3,3,3,3,3,21,Woman,18-23,Yes,White/Caucasian
+DJWETZACW,control,1,1,1,1,1,1,1,0,0,7,1,1,1,1,0,0,1,5,Woman,24-39,No,Other
+NVTUV071H,stereotype threat,1,0,1,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,Woman,24-39,No,White/Caucasian
+3VHSQBSIF,stereotype threat,1,1,1,1,2,1,3,0,0,10,1,1,1,1,0,2,1,7,Woman,24-39,No,White/Caucasian
+3ZXUGPL15,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Woman,24-39,No,White/Caucasian
+2Z14NMS09,control,1,2,1,2,1,1,1,2,2,13,2,2,2,2,2,2,2,14,Man,24-39,No,Black/African American
+A1IBZTIPR,stereotype threat,0,1,2,2,0,1,2,0,0,8,1,0,0,2,1,3,0,7,Woman,24-39,No,Hispanic/Latino
+K07YNR8S2,stereotype threat,2,1,2,2,0,3,1,2,0,13,1,3,2,2,0,1,3,12,Woman,40-55,Prefer not to answer,White/Caucasian
+IITKHSRQT,control,1,0,2,1,0,0,1,0,0,5,1,1,2,1,0,0,1,6,Man,18-23,No,White/Caucasian
+18BU0T36C,control,1,1,2,3,0,0,2,0,0,9,0,0,1,2,2,0,0,5,Man,24-39,No,White/Caucasian
+LPMHTVJK9,control,1,0,0,1,1,1,0,1,1,6,1,0,1,1,1,1,0,5,Woman,24-39,No,"Hispanic/Latino, White/Caucasian"
+2UN36PHH8,stereotype threat,3,2,3,3,3,1,2,2,0,19,0,0,0,1,2,0,0,3,Woman,24-39,No,White/Caucasian
+9RFJU57JW,control,2,3,3,3,3,3,3,3,2,25,3,3,3,3,3,3,3,21,Woman,24-39,No,White/Caucasian
+8GWLHFAJ1,stereotype threat,2,1,3,0,2,2,3,2,1,16,2,2,2,2,2,2,1,13,Woman,40-55,Yes,White/Caucasian
+BS6OWRWT3,control,0,1,2,0,0,1,1,0,0,5,1,1,1,2,2,2,1,10,Man,24-39,No,White/Caucasian
+R7VBKE8O4,stereotype threat,3,3,3,3,3,3,3,3,1,25,3,3,3,3,3,3,3,21,Woman,24-39,Yes,White/Caucasian
+UZ4BBFC02,stereotype threat,1,1,2,3,1,3,1,0,1,13,2,2,2,1,2,3,1,13,Woman,18-23,Yes,Hispanic/Latino
+IA81BBK3O,stereotype threat,1,1,0,0,1,1,1,0,0,5,1,1,1,1,0,1,0,5,Woman,40-55,No,Black/African American
+BC1T89KYB,stereotype threat,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,2,Woman,40-55,Yes,White/Caucasian
+JZQ9CXPOK,control,2,2,3,3,2,2,3,2,3,22,2,2,3,2,3,2,3,17,Man,24-39,Yes,Black/African American
+HHQ1T2REI,stereotype threat,2,2,2,2,2,2,0,0,1,13,1,1,1,1,0,0,1,5,Woman,40-55,Yes,White/Caucasian
+053F3JF85,control,3,3,3,2,3,3,1,1,2,21,3,3,3,3,2,1,3,18,Woman,24-39,Yes,White/Caucasian
+KX7UOVGXW,control,1,1,3,2,1,1,2,0,0,11,3,3,3,2,1,1,2,15,Woman,40-55,No,White/Caucasian
+PT210DZKV,control,2,1,2,1,0,1,2,0,1,10,2,1,3,3,1,1,1,12,Man,18-23,No,Black/African American
+PED89R2X1,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,40-55,No,White/Caucasian
+3SSDU7ZZS,stereotype threat,3,2,3,3,3,3,2,1,0,20,3,3,3,3,3,3,3,21,Man,18-23,No,White/Caucasian
+NS3MW7X1F,control,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Man,18-23,No,White/Caucasian
+KNBH2WNYA,control,1,0,3,0,1,0,0,0,0,5,0,0,1,0,0,1,0,2,Man,18-23,No,"Black/African American, Hispanic/Latino"
+00WRNS3MK,stereotype threat,2,2,3,3,2,3,3,0,1,19,2,3,3,3,2,2,2,17,Man,24-39,Yes,White/Caucasian
+ZNQ5Z1Q9I,control,2,2,2,2,2,2,2,2,2,18,2,2,2,2,2,2,2,14,Woman,24-39,No,White/Caucasian
+JTJZR6MPN,stereotype threat,0,2,3,2,2,0,1,0,0,10,2,2,2,3,0,3,0,12,Woman,24-39,No,White/Caucasian
+0NZH3ULXB,control,3,3,2,3,2,3,3,2,1,22,2,3,3,2,2,3,1,16,Man,24-39,No,White/Caucasian
+IUX1SYQOU,control,3,2,3,3,2,3,1,0,0,17,2,3,2,3,2,3,1,16,Other,18-23,Yes,White/Caucasian
+0YBURKKB4,control,0,1,1,1,1,2,1,1,0,8,2,2,2,1,1,1,1,10,Man,24-39,Yes,"Hispanic/Latino, Native American, White/Caucasian, Other"
+U0Z6T4BJM,stereotype threat,0,1,2,2,2,0,2,0,0,9,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+NOUJ4WMBE,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Other,24-39,No,Hispanic/Latino
+IYMRZ7FZR,stereotype threat,3,3,3,3,3,3,3,3,3,27,3,3,3,3,3,3,3,21,Woman,18-23,Yes,Asian
+CX4BEZ1KH,stereotype threat,2,2,1,1,2,3,3,0,0,14,2,2,3,3,2,2,2,16,Woman,24-39,No,White/Caucasian
+7ILA5Z9BC,stereotype threat,2,2,3,1,1,2,2,0,0,13,1,1,2,2,1,2,1,10,Man,24-39,No,Asian
+R7TFC1NBN,stereotype threat,2,2,1,1,1,2,1,0,1,11,3,3,3,3,3,2,3,20,Man,24-39,No,White/Caucasian
+OWM9NIV67,control,0,3,2,0,0,3,1,0,0,9,0,0,0,0,0,1,1,2,Man,18-23,No,Black/African American
+UL2HLP3S2,stereotype threat,2,2,1,2,2,2,1,1,1,14,2,3,2,2,2,3,2,16,Woman,24-39,Yes,"Hispanic/Latino, White/Caucasian"
+333B8XPT3,stereotype threat,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Woman,40-55,Yes,Black/African American
+XOL6TDL8W,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,40-55,Yes,Black/African American
+KOCDDO3G3,control,2,1,3,1,2,0,1,0,0,10,0,1,1,2,0,2,0,6,Man,24-39,No,White/Caucasian
+9VJIR84PQ,control,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Woman,56+,Yes,White/Caucasian
+A1WWOV7A7,stereotype threat,2,2,1,3,3,2,3,0,0,16,1,3,3,2,2,1,2,14,Woman,40-55,Yes,"Native American, White/Caucasian"
+5WSIRF9C7,stereotype threat,3,3,3,3,3,3,1,0,0,19,3,3,3,2,1,2,2,16,Woman,24-39,Yes,White/Caucasian
+LO013DVYO,control,0,0,2,3,1,0,2,1,0,9,0,0,0,0,0,1,0,1,Woman,40-55,No,White/Caucasian
+11VA6I6TH,stereotype threat,3,3,3,3,3,2,3,2,1,23,3,3,3,3,3,3,3,21,Woman,24-39,Yes,Hispanic/Latino
+GUN9FOB9Z,stereotype threat,2,2,1,2,1,2,2,0,1,13,3,1,1,1,0,2,1,9,Woman,24-39,No,White/Caucasian
+MI5OIAZT9,stereotype threat,3,3,3,3,3,1,1,1,0,18,1,0,1,1,0,3,0,6,Woman,40-55,Yes,White/Caucasian
+6S7YC2K3E,control,1,2,3,3,2,3,2,0,0,16,3,2,3,3,1,2,3,17,Woman,40-55,Yes,White/Caucasian
+Y9JG21I97,stereotype threat,2,2,2,3,2,1,2,1,1,16,2,2,2,1,0,1,2,10,Woman,40-55,No,White/Caucasian
+P69VZJY2D,stereotype threat,1,2,0,0,0,2,1,0,0,6,2,1,1,1,1,2,1,9,Other,24-39,Yes,White/Caucasian
+0VI2RMTWT,control,1,2,2,3,3,2,3,1,1,18,3,2,2,3,3,3,3,19,Woman,24-39,No,White/Caucasian
+V8BP0D8P3,control,2,1,0,3,2,1,3,0,0,12,1,0,0,3,1,2,0,7,Woman,24-39,Yes,White/Caucasian
+G7RN1SMCV,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woman,40-55,No,White/Caucasian
+KO6MQN4TH,control,0,0,2,2,1,1,1,0,0,7,1,1,0,1,0,1,0,4,Woman,40-55,No,Black/African American
+28CGATPB3,control,3,3,2,3,1,3,2,1,0,18,3,3,3,3,3,3,3,21,Woman,40-55,Yes,White/Caucasian
+FO36GWXK8,stereotype threat,1,1,3,2,0,0,1,0,1,9,0,0,2,0,2,1,0,5,Man,24-39,No,White/Caucasian
+EO3URI0FA,stereotype threat,2,3,3,2,1,2,1,1,2,17,3,3,3,2,0,0,3,14,Man,24-39,No,White/Caucasian
+06YZBXW0E,control,0,0,2,1,0,0,0,1,0,4,1,0,0,0,0,0,1,2,Man,24-39,No,White/Caucasian
+R51QPF9FH,control,3,3,3,3,3,2,3,1,0,21,3,3,3,3,3,2,2,19,Woman,24-39,No,White/Caucasian
+ALJ5BW5DT,control,2,3,3,3,3,2,3,1,2,22,3,3,3,3,2,3,2,19,Woman,24-39,No,White/Caucasian
+PLV535I3A,stereotype threat,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Woman,40-55,No,White/Caucasian
+PIY740MGH,stereotype threat,2,3,2,2,3,3,1,0,0,16,1,2,2,3,1,1,0,10,Woman,24-39,Yes,White/Caucasian
+2K3AAK29T,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,Woman,40-55,No,"White/Caucasian, Other"
+HJ4DRIJDE,stereotype threat,1,1,2,1,0,1,0,0,0,6,0,1,1,1,0,1,0,4,Woman,24-39,No,Other
+R8G6Q7GHS,control,2,2,1,1,2,1,1,0,0,10,1,1,1,1,0,1,0,5,Man,40-55,No,White/Caucasian
+UZI6AS5ZL,control,2,1,3,3,2,1,1,0,0,13,0,0,1,0,0,0,1,2,Man,18-23,Prefer not to answer,Asian
+VN88VQWFH,control,1,1,0,1,1,1,0,0,0,5,0,0,0,0,0,1,1,2,Man,24-39,No,White/Caucasian
+72MXGRQBR,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+O7AH5LR0P,control,2,2,3,2,3,3,2,2,3,22,3,3,3,3,3,3,3,21,Other,24-39,No,White/Caucasian
+ZIUC8XVSC,stereotype threat,0,0,1,1,0,0,0,0,0,2,1,0,0,2,1,0,0,4,Man,18-23,Yes,White/Caucasian
+B2TRX3X8A,control,1,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+X0C3C6HO5,stereotype threat,1,1,2,1,2,1,2,1,0,11,2,1,2,1,1,1,0,8,Woman,24-39,No,White/Caucasian
+EZ8EKDSLN,stereotype threat,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,Man,24-39,No,White/Caucasian
+GRYTK1JPH,stereotype threat,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Woman,24-39,No,Asian
+TSK41FGYG,stereotype threat,0,0,0,1,2,0,0,0,0,3,1,2,3,1,0,1,0,8,Woman,40-55,No,Other
+1TLO2REPT,stereotype threat,2,3,3,3,3,3,3,3,3,26,2,2,3,3,3,2,3,18,Other,18-23,Yes,Black/African American
+J1OUQ0VNX,control,0,0,1,1,0,0,0,0,0,2,1,0,0,1,0,0,0,2,Man,24-39,Yes,White/Caucasian
+6E80QDRBF,control,3,3,3,3,1,2,2,0,0,17,2,1,1,1,1,2,2,10,Other,24-39,Yes,White/Caucasian
+RRDR93OAQ,stereotype threat,2,2,2,2,2,2,2,2,2,18,2,2,2,2,2,2,2,14,Woman,24-39,Yes,White/Caucasian
+ZMEDGUHJM,control,0,1,0,1,1,0,0,0,0,3,0,0,0,1,0,1,0,2,Man,18-23,No,Black/African American
+QN1E9GUMV,stereotype threat,2,1,1,1,2,2,1,1,1,12,1,1,1,1,1,1,0,6,Man,18-23,No,White/Caucasian
+8TFPEHJSF,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Man,24-39,No,White/Caucasian
+GHK1L51LP,control,2,2,2,3,2,3,2,2,2,20,3,2,1,2,3,3,2,16,Woman,40-55,Yes,White/Caucasian
+64XV6EVX5,stereotype threat,1,1,0,0,0,0,1,0,0,3,0,0,0,0,0,2,0,2,Woman,40-55,Yes,Black/African American
+8J0PZ4W9Y,stereotype threat,1,1,2,2,2,2,1,3,0,14,2,2,3,2,3,2,3,17,Woman,24-39,Yes,Asian
+EAIY2O2TU,control,0,0,1,1,1,0,1,0,0,4,1,0,1,0,0,0,0,2,Man,24-39,Yes,White/Caucasian
+EBCDMC7R8,control,1,1,2,1,0,0,2,0,0,7,0,1,2,2,0,0,1,6,Woman,56+,Yes,White/Caucasian
+HRKDCRIR3,stereotype threat,2,1,3,1,0,1,1,1,2,12,1,1,1,1,0,1,0,5,Man,40-55,No,White/Caucasian
+J79E017DW,stereotype threat,1,1,1,1,1,1,2,3,0,11,1,2,2,1,1,1,1,9,Man,40-55,Prefer not to answer,White/Caucasian
+5VKBPOJA5,stereotype threat,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,Man,18-23,No,Hispanic/Latino
+ZW34HBGVK,stereotype threat,0,1,1,1,0,0,1,0,0,4,1,0,0,1,0,2,0,4,Woman,24-39,No,Asian
+NCRV5694O,control,2,3,3,3,2,3,3,1,1,21,3,1,2,3,1,3,1,14,Woman,24-39,Yes,White/Caucasian
+3CHEWWWZ3,stereotype threat,2,2,3,2,3,2,2,0,0,16,2,1,2,3,0,1,1,10,Woman,18-23,Yes,White/Caucasian
+X04Z7QK7S,stereotype threat,3,3,0,3,2,1,1,0,0,13,1,1,2,2,0,3,1,10,Woman,24-39,No,White/Caucasian
+RO36LNUYG,control,1,1,3,3,0,2,1,0,0,11,2,1,2,3,0,0,1,9,Man,24-39,No,Black/African American
+73KXCMW73,stereotype threat,3,3,1,3,2,3,3,0,2,20,3,3,3,2,2,2,3,18,Man,24-39,Yes,White/Caucasian
+8E9UTS241,stereotype threat,3,3,3,3,3,3,2,0,0,20,3,3,3,3,3,3,2,20,Woman,24-39,Yes,White/Caucasian
+SKNKBM56D,stereotype threat,2,1,2,2,1,2,1,1,2,14,1,2,1,1,2,1,2,10,Woman,18-23,No,Asian
+5JKYCT1HB,control,0,1,2,2,1,0,1,1,0,8,2,1,1,1,1,2,2,10,Man,24-39,Yes,"Native American, Native Islander/Pacific Islander, White/Caucasian"
+3U7HGKO0G,stereotype threat,2,2,3,1,1,3,0,0,3,15,1,3,3,1,1,3,2,14,Man,18-23,Yes,Hispanic/Latino
+HRZEHZ7VC,stereotype threat,3,3,3,3,3,3,3,3,2,26,3,3,3,3,3,3,3,21,Woman,18-23,Yes,White/Caucasian
+DC99V3UUB,stereotype threat,2,2,1,2,1,1,0,0,0,9,1,0,0,2,0,1,0,4,Man,24-39,No,White/Caucasian
+LK2ZQLMKS,stereotype threat,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+D3QCUXCAH,stereotype threat,0,0,3,2,1,0,0,0,0,6,1,1,1,0,0,1,0,4,Man,40-55,Yes,Black/African American
+9UG8K6FO0,stereotype threat,1,1,2,2,3,2,1,0,1,13,1,1,1,2,1,2,0,8,Man,24-39,Yes,White/Caucasian
+3NL2J473W,control,1,1,3,1,2,1,2,1,0,12,1,1,1,2,1,2,0,8,Woman,40-55,No,White/Caucasian
+SJXTGWBX9,stereotype threat,1,1,2,2,1,1,3,2,0,13,1,2,1,2,3,2,2,13,Man,18-23,Yes,White/Caucasian
+Q6N7PT68V,control,2,2,2,2,2,1,1,0,0,12,1,1,1,1,1,2,1,8,Woman,40-55,Yes,Black/African American
+I9RHX4RVN,control,3,3,3,3,2,2,3,0,2,21,2,2,2,3,2,3,2,16,Woman,24-39,Yes,White/Caucasian
+ED2I858MF,control,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,2,0,4,Man,24-39,No,Asian
+QI2RZOIWO,control,3,3,3,3,3,3,2,1,1,22,3,3,3,3,2,2,2,18,Woman,24-39,Yes,White/Caucasian
+8PY0HWZZD,control,2,2,3,3,1,2,3,1,0,17,3,3,3,3,3,3,1,19,Other,18-23,Yes,White/Caucasian
+0U9XV75IX,stereotype threat,2,2,3,2,3,1,3,0,0,16,2,1,2,2,0,1,2,10,Woman,56+,Yes,White/Caucasian
+7EPRFFP13,control,2,2,3,2,2,0,1,0,0,12,2,2,3,3,0,1,0,11,Woman,24-39,Yes,White/Caucasian
+DDIBMJW86,control,1,1,1,1,2,2,2,1,0,11,2,2,2,2,1,3,1,13,Woman,24-39,Yes,White/Caucasian
+G507LQZ5X,control,2,3,1,3,0,2,3,0,1,15,3,1,3,2,1,1,2,13,Man,40-55,Yes,White/Caucasian
+GS9IFHH02,stereotype threat,1,2,3,3,3,3,2,2,2,21,0,1,2,2,2,2,3,12,Man,40-55,Yes,White/Caucasian
+WZ27PJJDQ,control,2,2,1,2,1,2,1,0,1,12,2,1,1,1,0,0,1,6,Woman,18-23,Yes,White/Caucasian
+VD2RKGCW3,stereotype threat,0,1,0,1,0,0,0,0,0,2,1,0,1,0,0,0,0,2,Man,24-39,No,Asian
+IWC8WP86R,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+CYCS1ZWOE,control,0,1,1,2,1,0,1,0,0,6,0,0,1,0,0,0,0,1,Man,40-55,No,White/Caucasian
+0IJCJHPSJ,control,1,0,0,1,0,0,1,0,0,3,2,1,1,0,0,1,0,5,Man,24-39,No,White/Caucasian
+CWM8VFSR1,stereotype threat,3,3,3,3,3,3,3,3,2,26,3,3,3,3,3,3,3,21,Woman,24-39,Yes,White/Caucasian
+ZSV4R67YI,stereotype threat,0,1,3,2,1,1,1,0,0,9,0,0,0,1,0,1,0,2,Man,40-55,No,White/Caucasian
+CN0MZ8SVO,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woman,40-55,No,Hispanic/Latino
+R81DDALEN,control,1,1,1,1,0,0,0,0,0,4,1,1,1,1,0,1,1,6,Man,40-55,Yes,White/Caucasian
+X9I85TFJH,control,0,0,1,1,2,1,0,0,0,5,0,0,0,0,1,1,0,2,Woman,24-39,No,Black/African American
+MWMFFI6VF,control,2,2,2,1,2,2,2,1,2,16,2,2,1,2,2,1,2,12,Woman,24-39,No,Black/African American
+FVTS4GMT0,control,3,3,0,3,3,2,2,0,0,16,3,2,2,1,1,3,0,12,Man,24-39,No,White/Caucasian
+1FI0MTC50,stereotype threat,3,3,3,3,3,3,2,2,2,24,3,3,3,3,2,3,2,19,Woman,24-39,Yes,White/Caucasian
+VFRO3ZS97,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+1ZPER3JLY,stereotype threat,3,3,3,3,1,3,3,0,2,21,2,2,3,3,3,3,3,19,Man,24-39,No,Asian
+HJERN37PE,stereotype threat,1,3,3,1,3,3,2,2,3,21,3,3,3,3,2,3,2,19,Man,18-23,No,White/Caucasian
+X6VMD26O2,stereotype threat,1,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,Woman,24-39,No,Asian
+E8Q5JF2AE,stereotype threat,1,2,2,2,2,2,2,0,0,13,3,2,2,1,2,2,2,14,Man,24-39,No,"White/Caucasian, Other"
+Y2D3VEDCB,stereotype threat,2,3,3,2,3,3,2,0,1,19,2,2,1,1,0,0,2,8,Woman,24-39,No,"Asian, White/Caucasian, Other"
+N62ILYIU3,stereotype threat,2,3,3,3,2,3,3,2,3,24,2,2,2,1,2,1,2,12,Woman,18-23,No,Asian
+DPD7LDKHM,stereotype threat,1,0,0,1,1,0,0,0,0,3,0,1,1,1,0,0,0,3,Man,18-23,No,Asian
+HT8EF4WQP,control,1,1,1,2,2,1,3,1,0,12,1,1,1,1,0,2,1,7,Man,24-39,No,White/Caucasian
+ETFNPLAAG,control,1,1,2,2,2,0,2,1,0,11,2,2,2,2,2,2,1,13,Woman,24-39,Yes,White/Caucasian
+LW0PT99GB,control,1,2,3,3,1,3,2,1,2,18,3,1,2,2,1,3,2,14,Other,24-39,Yes,"Hispanic/Latino, White/Caucasian"
+R105XS669,stereotype threat,3,2,1,2,0,2,3,0,3,16,2,1,0,1,0,0,0,4,Man,18-23,Yes,White/Caucasian
+QHWLT34YE,control,0,0,2,2,1,0,1,0,0,6,0,0,0,0,0,2,0,2,Man,24-39,No,White/Caucasian
+HU0TL00AD,control,3,3,3,3,3,3,3,0,3,24,3,3,3,0,0,0,3,12,Man,18-23,No,Black/African American
+V3ARHO9FI,stereotype threat,2,2,2,2,2,3,0,0,0,13,1,0,0,1,2,2,2,8,Woman,24-39,No,White/Caucasian
+VP6XEW1BC,control,1,1,2,2,1,2,2,0,0,11,1,2,2,2,0,1,1,9,Woman,24-39,No,White/Caucasian
+7FCE0XFDQ,stereotype threat,2,3,2,3,3,3,3,2,0,21,3,2,3,3,3,2,2,18,Woman,18-23,No,White/Caucasian
+2J66ISROR,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+YILLLQ0K6,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+7CP6HI2D3,control,1,2,2,2,1,0,2,2,0,12,2,2,2,3,2,2,2,15,Woman,40-55,Yes,White/Caucasian
+6YAWLSYTT,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,18-23,No,Hispanic/Latino
+8WBVV7RX2,stereotype threat,0,1,1,1,2,1,1,0,0,7,1,1,1,1,1,1,1,7,Woman,24-39,No,"Hispanic/Latino, White/Caucasian"
+CUB4T936V,control,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Man,18-23,No,White/Caucasian
+4IGB4DKMP,control,1,1,1,1,1,1,0,0,0,6,1,1,0,1,1,1,0,5,Man,24-39,No,"Native American, White/Caucasian"
+S8UM2H1YC,control,0,0,2,0,0,1,0,0,0,3,1,1,1,0,0,0,0,3,Woman,56+,Yes,White/Caucasian
+P523OSEZW,stereotype threat,1,2,3,2,2,3,2,1,0,16,1,1,2,0,1,2,0,7,Man,24-39,No,White/Caucasian
+18SVPE1ZJ,control,2,2,2,1,2,3,3,0,1,16,2,2,3,3,3,3,2,18,Woman,24-39,Yes,White/Caucasian
+RBA8L53F1,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Woman,40-55,No,White/Caucasian
+4IGU5ZQWZ,control,1,1,2,2,2,1,2,1,1,13,1,0,1,0,1,2,0,5,Man,24-39,No,Asian
+Y62T6GHBA,stereotype threat,3,3,3,3,3,3,3,3,1,25,3,3,3,3,3,3,3,21,Woman,40-55,Yes,White/Caucasian
+BGL0MMCO9,stereotype threat,1,1,2,1,1,2,1,1,1,11,1,1,1,1,1,1,1,7,Man,24-39,No,Hispanic/Latino
+3P1RSB01B,stereotype threat,0,0,0,1,0,1,0,0,0,2,0,0,1,0,0,1,0,2,Man,24-39,No,White/Caucasian
+8EEF50JKJ,control,2,0,0,2,1,0,1,1,0,7,1,1,1,1,0,2,1,7,Woman,24-39,Yes,White/Caucasian
+PUB9J1B82,control,2,2,1,1,1,1,1,0,1,10,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+MOYCMDQ07,control,1,1,0,1,1,1,0,0,0,5,0,0,0,0,0,1,0,1,Man,24-39,No,White/Caucasian
+FWBF74Q1R,stereotype threat,1,2,2,2,0,2,0,0,0,9,0,1,1,0,0,0,1,3,Other,24-39,No,Black/African American
+ES9H14HA2,stereotype threat,3,3,3,3,3,3,3,3,0,24,3,3,3,3,1,3,3,19,Woman,56+,Yes,"Native American, White/Caucasian"
+ALWME5OUU,stereotype threat,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,6,Woman,40-55,No,White/Caucasian
+SF0QALS02,stereotype threat,1,1,0,1,1,1,1,0,0,6,1,2,1,1,1,0,1,7,Man,24-39,No,White/Caucasian
+846CD4CAG,control,0,0,0,1,1,0,0,0,0,2,0,0,1,0,0,0,0,1,Man,18-23,No,Black/African American
+GR7PQY74F,control,1,0,0,0,0,0,1,0,0,2,0,0,1,1,0,2,1,5,Man,18-23,No,Hispanic/Latino
+MUGAV0MIC,stereotype threat,3,2,3,2,2,3,3,0,0,18,2,1,1,3,0,2,1,10,Woman,18-23,Yes,Black/African American
+FNSXCTMOE,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+5AH5AX23X,stereotype threat,2,3,3,1,3,3,3,0,2,20,2,3,3,2,0,2,3,15,Man,24-39,Yes,White/Caucasian
+M4JQCGPZZ,control,3,3,2,2,0,1,1,0,1,13,0,0,0,0,0,0,3,3,Man,18-23,No,Black/African American
+LKD1VXMWK,control,2,2,1,3,3,2,2,0,0,15,2,1,1,2,2,2,1,11,Woman,24-39,Yes,"Hispanic/Latino, Native American, Other"
+IMJJXV1B2,stereotype threat,3,2,3,3,3,1,3,1,0,19,3,2,3,3,1,1,1,14,Woman,40-55,Yes,White/Caucasian
+R8XZTT4T8,control,0,2,2,2,1,2,2,0,0,11,1,0,0,0,0,1,0,2,Man,24-39,No,White/Caucasian
+80HSQUGOP,control,3,1,2,3,1,2,2,2,1,17,1,1,1,3,2,2,0,10,Man,18-23,No,Hispanic/Latino
+IHNGBZ4G4,control,1,1,2,3,3,2,2,1,1,16,1,1,1,1,1,1,1,7,Woman,40-55,Yes,White/Caucasian
+GDCI9HKWA,stereotype threat,2,2,1,0,0,0,2,0,0,7,1,0,0,0,0,0,0,1,Other,18-23,No,White/Caucasian
+S8H4G4XHO,stereotype threat,2,2,2,2,2,3,3,2,0,18,2,2,2,2,2,2,0,12,Woman,24-39,Yes,Other
+AP4FPZP5H,stereotype threat,3,3,3,3,3,3,3,3,3,27,3,3,3,3,3,3,3,21,Man,24-39,No,Asian
+II0292KX4,stereotype threat,3,3,3,3,3,3,2,2,0,22,3,2,3,3,3,2,3,19,Woman,24-39,Yes,White/Caucasian
+UM8C3DPOI,control,2,2,3,3,3,2,3,0,0,18,1,2,2,2,0,2,2,11,Woman,24-39,No,White/Caucasian
+8ZHYLYS07,control,0,0,1,1,1,0,0,0,0,3,0,0,0,1,0,0,0,1,Woman,24-39,Yes,White/Caucasian
+E7EEQIEOV,control,1,0,1,1,0,1,1,0,0,5,1,1,1,0,0,1,1,5,Woman,40-55,Prefer not to answer,White/Caucasian
+8LOAAXQ52,stereotype threat,1,1,2,2,1,0,1,0,0,8,1,0,0,1,1,2,0,5,Woman,24-39,No,"Black/African American, Native American, White/Caucasian"
+ICONATXLW,control,0,1,0,1,1,2,0,0,1,6,2,1,3,2,2,0,1,11,Man,18-23,No,Asian
+EI9BLEJO5,stereotype threat,3,3,1,2,1,3,1,0,1,15,2,2,2,2,0,1,2,11,Man,24-39,Yes,White/Caucasian
+3IN79Z60Z,control,0,0,1,1,0,0,0,0,0,2,1,0,0,0,0,0,0,1,Man,56+,No,White/Caucasian
+0832IIHPX,control,1,0,3,1,1,0,1,0,0,7,1,0,1,1,2,1,0,6,Man,24-39,No,White/Caucasian
+LJ9HXEINF,stereotype threat,1,1,1,0,0,1,0,0,1,5,0,0,0,1,1,0,0,2,Woman,24-39,No,Asian
+AB7ZLB0BC,control,0,1,2,3,0,2,0,0,1,9,2,1,1,1,0,1,1,7,Man,18-23,Yes,Black/African American
+JHIMLDN2G,control,1,1,2,1,0,0,0,0,0,5,0,0,1,0,0,0,0,1,Man,24-39,No,"Black/African American, White/Caucasian"
+SVGAD4DP4,control,0,0,2,0,1,0,1,0,0,4,0,0,0,0,0,0,0,0,Woman,40-55,No,Black/African American
+IXGW4K35V,control,2,2,2,2,2,2,0,0,1,13,1,1,1,1,0,1,0,5,Woman,24-39,Yes,White/Caucasian
+DBGWJXAQ1,control,3,3,3,3,2,1,2,1,0,18,3,1,1,2,2,1,1,11,Woman,24-39,Yes,Black/African American
+0M4Q9TVS1,control,3,3,3,3,3,3,3,0,3,24,0,0,0,1,0,3,0,4,Man,18-23,Yes,Black/African American
+7M05UH1N1,stereotype threat,3,3,3,3,3,3,3,0,3,24,2,2,2,3,2,3,3,17,Woman,24-39,No,White/Caucasian
+M153ZUCWD,stereotype threat,3,3,3,3,3,3,3,0,3,24,3,3,3,2,2,3,3,19,Woman,24-39,No,White/Caucasian
+YSN830IFC,stereotype threat,2,1,2,2,1,1,2,1,0,12,2,2,3,1,0,2,1,11,Man,24-39,No,Black/African American
+QB41U9B20,control,2,2,2,2,3,1,3,2,2,19,2,2,1,1,1,2,1,10,Man,24-39,No,Black/African American
+2F9XOH3C5,control,3,3,3,2,1,3,3,2,3,23,3,2,3,3,3,3,0,17,Man,24-39,No,Black/African American
+328A23GSN,control,0,3,3,3,1,3,0,0,2,15,2,3,3,1,0,1,3,13,Woman,18-23,Yes,White/Caucasian
+5XEUPOVMZ,control,3,3,3,2,3,3,3,3,3,26,3,3,3,3,3,3,3,21,Man,18-23,Yes,White/Caucasian
+Q75ZPBZRV,stereotype threat,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,2,Woman,18-23,No,Black/African American
+O0PAAK11B,control,1,0,1,1,0,0,1,0,0,4,0,0,0,0,0,1,0,1,Man,18-23,No,"Hispanic/Latino, White/Caucasian"
+4ON5ORZQD,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,40-55,No,Asian
+CJ96P0ZAQ,control,3,2,2,3,1,2,2,1,1,17,1,0,0,1,1,2,1,6,Woman,40-55,Yes,"Hispanic/Latino, White/Caucasian"
+1MZ0A5PA6,stereotype threat,2,1,2,3,2,1,3,0,1,15,2,1,2,2,2,2,1,12,Woman,24-39,Yes,White/Caucasian
+G33BXUUS6,stereotype threat,3,3,3,3,3,3,2,1,0,21,1,1,0,1,0,2,1,6,Man,18-23,No,White/Caucasian
+9FT7GSK0V,control,1,1,0,2,2,1,1,0,0,8,1,1,1,2,0,1,0,6,Man,24-39,Yes,White/Caucasian
+0FA8HUTCN,stereotype threat,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,Man,18-23,Yes,Asian
+CL9NV0WWY,stereotype threat,2,0,1,0,1,1,2,1,2,10,0,0,1,0,1,2,1,5,Man,24-39,No,White/Caucasian
+IUGAHUB8Z,control,1,2,3,1,2,2,1,0,0,12,3,2,3,2,1,1,1,13,Man,24-39,Yes,White/Caucasian
+4EEO0ABSQ,stereotype threat,2,1,1,1,1,1,1,0,0,8,1,0,2,2,1,1,1,8,Man,18-23,Yes,Asian
+G2OLGEXS9,stereotype threat,2,1,2,2,1,1,1,0,0,10,1,0,1,1,0,0,0,3,Man,24-39,No,White/Caucasian
+Z50945H40,stereotype threat,2,1,0,2,3,0,1,2,2,13,0,1,1,2,1,1,0,6,Man,24-39,No,White/Caucasian
+DSD1K9ZLL,stereotype threat,2,2,3,3,0,1,1,0,0,12,1,3,3,3,0,1,1,12,Woman,18-23,Yes,White/Caucasian
+6JT4G8YFH,control,2,3,2,2,2,3,2,1,3,20,1,1,1,1,1,2,0,7,Man,40-55,Yes,White/Caucasian
+HP0RBG2LY,control,3,3,3,3,3,3,3,3,3,27,3,3,3,3,3,3,3,21,Man,40-55,Yes,White/Caucasian
+2UAVRZYY8,control,2,2,2,2,2,2,0,0,0,12,2,2,2,1,0,2,2,11,Woman,40-55,Yes,White/Caucasian
+KIY618IHW,control,0,0,1,0,1,1,0,0,0,3,0,0,0,0,0,0,0,0,Man,18-23,No,Hispanic/Latino
+CI8ZV3SHZ,stereotype threat,3,3,3,3,3,3,3,0,1,22,3,3,3,3,2,3,3,20,Woman,24-39,No,White/Caucasian
+OAHHVQH1J,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+CSQL87Z6J,control,1,2,2,2,1,2,1,0,0,11,2,2,2,2,1,2,1,12,Woman,40-55,No,White/Caucasian
+RDRQDKZUE,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,40-55,No,Black/African American
+0XRDYXWOE,control,0,0,2,1,0,0,1,0,0,4,1,0,1,1,2,1,1,7,Woman,40-55,No,Native American
+0FX9FNBH3,control,0,0,1,1,0,0,1,0,0,3,0,0,0,0,0,0,0,0,Man,40-55,No,White/Caucasian
+ZU480VKLF,control,2,2,0,1,2,3,0,0,1,11,1,1,1,1,0,1,0,5,Woman,24-39,No,White/Caucasian
+D3I1LUBF8,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,18-23,No,White/Caucasian
+IX8EIHOMZ,control,2,2,2,2,1,2,1,1,1,14,2,1,2,1,2,2,1,11,Man,24-39,Yes,White/Caucasian
+I2QVYX8KA,control,1,1,2,1,2,3,1,0,1,12,1,1,0,1,0,2,1,6,Man,18-23,No,"Hispanic/Latino, White/Caucasian"
+B0HEQMRJ6,stereotype threat,2,1,2,2,2,1,2,0,0,12,2,2,2,3,3,1,1,14,Man,18-23,No,Hispanic/Latino
+32WU3GTFL,stereotype threat,3,3,3,0,1,2,2,1,2,17,2,2,2,3,2,2,2,15,Other,40-55,Yes,Hispanic/Latino
+N6KJMVENA,stereotype threat,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Man,24-39,No,White/Caucasian
+W5GCWPT86,stereotype threat,2,2,2,1,1,1,2,2,1,14,3,2,2,2,3,1,2,15,Man,24-39,Yes,White/Caucasian
+UATYPJLNF,control,1,0,0,2,2,1,1,0,0,7,0,0,0,0,1,1,1,3,Man,24-39,No,Asian
+LSECP0SR6,control,1,1,0,1,0,1,0,0,0,4,1,1,1,0,1,1,0,5,Man,24-39,No,Asian
+0HV2UUGWX,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,40-55,No,White/Caucasian
+T7IBUJ9AK,stereotype threat,2,2,2,3,3,2,1,0,0,15,3,3,3,2,1,2,2,16,Woman,40-55,No,White/Caucasian
+JZW63AFIA,control,1,1,1,1,1,1,1,1,0,8,1,1,1,1,0,0,1,5,Man,24-39,Yes,Native American
+I4WPEYE6Z,stereotype threat,1,0,1,2,0,2,1,0,0,7,2,1,1,0,0,0,1,5,Man,24-39,No,Black/African American
+VXY2BPSLH,control,0,1,0,1,0,1,0,0,0,3,1,1,1,1,0,1,0,5,Woman,24-39,Yes,White/Caucasian
+JB95HLE5F,stereotype threat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Man,24-39,No,Black/African American
+C4NCER7RE,control,1,1,1,1,0,1,1,0,0,6,1,0,0,1,0,0,0,2,Man,40-55,No,"Asian, White/Caucasian"
+F90TOVDVB,stereotype threat,1,1,3,1,3,1,1,0,0,11,1,1,1,2,1,1,0,7,Man,40-55,Yes,"Hispanic/Latino, White/Caucasian"
+QU4II7Z75,stereotype threat,3,3,3,2,2,3,3,2,3,24,3,2,3,3,2,3,3,19,Man,24-39,Yes,Black/African American
+OW3IK4WW3,stereotype threat,1,2,2,3,2,3,1,0,0,14,2,2,2,2,1,1,2,12,Man,24-39,No,White/Caucasian
+XYBHSF79P,control,1,1,2,2,1,1,1,0,0,9,1,0,0,0,0,1,0,2,Woman,24-39,No,"Hispanic/Latino, White/Caucasian"
+691P5QTLK,control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Man,24-39,No,White/Caucasian
+24GRUOP7U,control,3,3,3,3,3,3,3,0,1,22,3,3,3,3,2,3,2,19,Woman,40-55,Yes,White/Caucasian
+2b835f5bE,control,2,2,2,1,2,3,1,0,2,15,2,1,2,2,0,2,2,11,Man,24-39,Yes,White/Caucasian
