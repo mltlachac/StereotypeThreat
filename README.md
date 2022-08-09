@@ -1,6 +1,6 @@
 # MobileStereotypeThreat
 
-Materials for paper titled: "Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation". This paper introduces the Depression Stereotype Threat (DepreST) dataset. 
+Materials for paper titled: "Impact Assessment of Stereotype Threat on Mobile Depression Screening using Bayesian Estimation". This paper introduces the Depression Stereotype Threat (DepreST) dataset. Paper is available at https://www.sciencedirect.com/science/article/pii/S2772442522000375?via%3Dihub
 
 DepreST-CAT (Call and Text logs) is also available: https://github.com/mltlachac/DepreST-CAT
 
